@@ -21,5 +21,5 @@ Simply open the `index.html` file in any modern browser to view and interact wit
 ## Deployment
 This project is deployed via GitHub Pages and can be accessed at:
 
-`https://al-tus.github.io/prof-tests/`
+[View on GitHub Pages](https://al-tus.github.io/prof-tests/)
 
